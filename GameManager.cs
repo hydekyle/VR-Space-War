@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        SummonMonster(40);
+        SummonMonster(50);
     }
 
     void SummonMonster(int pieces)
